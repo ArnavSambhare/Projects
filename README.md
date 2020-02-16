@@ -8,4 +8,5 @@ This contains links to the repositories of all my projects.<br>
 [Estimating VaR using Monte Carlo simulations](https://github.com/ArnavSambhare/VaR_Monte_Carlo_Simulation_GBM) A flexible Python tool to estimate the VaR of a Stock using Monte Carlo Simulation.
 <br>
 [Python Backtest Engine for testing trading strategies](https://github.com/ArnavSambhare/Backtest-Engine) A flexible tool for testing trading strategies.
+<br>
 [Neural Network for predicting volatilities](https://github.com/ArnavSambhare/VolatilityPredictorNeuralNet) A complete pipeline to load raw data, process the data, train the model and generate predictions.
